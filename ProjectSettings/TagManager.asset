@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - plus
+  - coin
   layers:
   - Default
   - TransparentFX
@@ -49,4 +51,7 @@ TagManager:
     locked: 0
   - name: Props
     uniqueID: 1207517205
+    locked: 0
+  - name: ui
+    uniqueID: 2586733935
     locked: 0
